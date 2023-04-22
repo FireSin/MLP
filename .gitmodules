@@ -1,0 +1,3 @@
+[submodule "src/NeuralNetworkCPP"]
+	path = src/NeuralNetworkCPP
+	url = https://github.com/grimashevich/NeuralNetworkCPP.git
